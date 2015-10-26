@@ -1,0 +1,12 @@
+[color]
+	ui = always
+[core]
+	pager = less -M -I -r
+[user]
+	#name = xxx
+	#email = xxx@xx.com
+[sendemail]
+	#smtpserver = smtp.xx.com
+	#smtpuser = xxx
+	#smtpserverport = xxx
+	#smtpencryption = ssl
